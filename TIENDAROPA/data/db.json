@@ -83,6 +83,14 @@
       "descripcion": "Short de mezclilla cómodo y casual.",
       "imagen": "https://picsum.photos/seed/short/300/300",
       "categoria": "Pantalones"
-    }
+    },
+        {
+          "id": 9,
+          "nombre": "Medias Deportivas",
+          "precio": 29.99,
+          "descripcion": "Short de mezclilla cómodo y casual.",
+          "imagen": "https://picsum.photos/seed/short/300/300",
+          "categoria": "Pantalones"
+        }
   ]
 }

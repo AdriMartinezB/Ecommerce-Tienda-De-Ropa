@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Ana García",
+      "correo": "ana@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos López",
+      "correo": "carlos@email.com",
+      "password": "abcdef"
+    },
+    {
+      "id": 3,
+      "nombre": "Test User",
+      "correo": "test1778293356342@test.com",
+      "password": "test123"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "nombre": "Camiseta Básica",
+      "precio": 19.99,
+      "descripcion": "Camiseta de algodón 100%, disponible en varios colores.",
+      "imagen": "https://picsum.photos/seed/camiseta/300/300",
+      "categoria": "Camisetas"
+    },
+    {
+      "id": 2,
+      "nombre": "Jeans Clásicos",
+      "precio": 49.99,
+      "descripcion": "Jeans de corte recto con ajuste cómodo.",
+      "imagen": "https://picsum.photos/seed/jeans/300/300",
+      "categoria": "Pantalones"
+    },
+    {
+      "id": 3,
+      "nombre": "Chaqueta de Cuero",
+      "precio": 89.99,
+      "descripcion": "Chaqueta de cuero genuino con forro interior.",
+      "imagen": "https://picsum.photos/seed/chaqueta/300/300",
+      "categoria": "Chaquetas"
+    },
+    {
+      "id": 4,
+      "nombre": "Vestido Floral",
+      "precio": 39.99,
+      "descripcion": "Vestido estampado floral, ideal para primavera.",
+      "imagen": "https://picsum.photos/seed/vestido/300/300",
+      "categoria": "Vestidos"
+    },
+    {
+      "id": 5,
+      "nombre": "Zapatos Deportivos",
+      "precio": 59.99,
+      "descripcion": "Zapatos ligeros y cómodos para uso diario.",
+      "imagen": "https://picsum.photos/seed/zapatos/300/300",
+      "categoria": "Calzado"
+    },
+    {
+      "id": 6,
+      "nombre": "Sombrero de Algodón",
+      "precio": 14.99,
+      "descripcion": "Sombrero ligero para protección solar.",
+      "imagen": "https://picsum.photos/seed/sombrero/300/300",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": 7,
+      "nombre": "Bufanda de Lana",
+      "precio": 24.99,
+      "descripcion": "Bufanda tejida de lana suave.",
+      "imagen": "https://picsum.photos/seed/bufanda/300/300",
+      "categoria": "Accesorios"
+    },
+    {
+      "id": 8,
+      "nombre": "Pantalón Corto",
+      "precio": 29.99,
+      "descripcion": "Short de mezclilla cómodo y casual.",
+      "imagen": "https://picsum.photos/seed/short/300/300",
+      "categoria": "Pantalones"
+    },
+    {
+      "id": 9,
+      "nombre": "Medias Deportivas",
+      "precio": 300,
+      "descripcion": "Short de mezclilla cómodo y casual.",
+      "imagen": "https://picsum.photos/seed/short/300/300",
+      "categoria": "Pantalones"
+    }
+  ]
+}
